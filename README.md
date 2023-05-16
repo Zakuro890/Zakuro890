@@ -1,15 +1,14 @@
 ### Hi there 👋
-
-<!--
-**Zakuro890/Zakuro890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Zakuro890/posts.svg)](http://qiita.com/Zakuro890)
 # My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Zakuro890/contributions.svg)](http://qiita.com/Zakuro890)
 # My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Zakuro890/followers.svg)](http://qiita.com/Zakuro890)
+<!--
+**Zakuro890/Zakuro890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
