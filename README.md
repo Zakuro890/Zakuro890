@@ -1,10 +1,10 @@
 ### Hi there 👋
-# My Qiita Works
+## My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Zakuro890/posts.svg)](http://qiita.com/Zakuro890)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Zakuro890/contributions.svg)](http://qiita.com/Zakuro890)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Zakuro890/followers.svg)](http://qiita.com/Zakuro890)
 ![](https://komarev.com/ghpvc/?username=Zakuro890)
-
+## My Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakuro890)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuro890)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zakuro890)](https://github.com/ryo-ma/github-profile-trophy)
