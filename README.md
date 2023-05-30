@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋<br>
+I am a university student aiming to become a front-end engineer.
 ## My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Zakuro890/posts.svg)](http://qiita.com/Zakuro890)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Zakuro890/contributions.svg)](http://qiita.com/Zakuro890)
