@@ -5,9 +5,13 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Zakuro890/followers.svg)](http://qiita.com/Zakuro890)
 ![](https://komarev.com/ghpvc/?username=Zakuro890)
 ## My Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakuro890)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuro890)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zakuro890)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuro890&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Zakuro890&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zakuro890&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Connect with me:</h3>
