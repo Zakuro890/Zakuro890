@@ -1,9 +1,10 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Zakuro890)
 ## My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Zakuro890/posts.svg)](http://qiita.com/Zakuro890)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Zakuro890/contributions.svg)](http://qiita.com/Zakuro890)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Zakuro890/followers.svg)](http://qiita.com/Zakuro890)
-![](https://komarev.com/ghpvc/?username=Zakuro890)
+
 ## My Github Status
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakuro890&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
