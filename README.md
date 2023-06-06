@@ -1,4 +1,5 @@
 ### Hi there 👋
+### コードを書くだけで満足してはいけない。
 ![](https://komarev.com/ghpvc/?username=Zakuro890)
 ## My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Zakuro890/posts.svg)](http://qiita.com/Zakuro890)
